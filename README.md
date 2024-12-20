@@ -114,7 +114,7 @@ Adjust **N_S** and **E_W** values as required to change state encoding.
 
 
 ## Author
-[Praveen](https://github.com/Praveen-Oruganti)  
+[Praveen Oruganti](https://github.com/Praveen-Oruganti)  
 (Trainee@Ramaiah Skill academy )
 
 
